@@ -1,0 +1,4 @@
+- [ ] Build the APFlow workspace shell and responsive design system.
+- [ ] Add fictional demo records and configurable Django API service modules.
+- [ ] Implement dashboard, finance views, upload/review flow, approvals, reports, and settings.
+- [ ] Add page routes and unique metadata; verify routing, interactions, and preview diagnostics.
